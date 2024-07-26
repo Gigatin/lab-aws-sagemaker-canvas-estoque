@@ -42,7 +42,9 @@ O dataset utilizado para o treinamento do modelo de Machine Learning está dispo
   - **P10 (Linha Rosa)**: Cenário negativo.
   - **P50 (Linha Verde)**: Cenário neutro.
   - **P90 (Linha Amarela)**: Cenário positivo.
-![image](https://github.com/user-attachments/assets/32a1f97a-1ea2-4f76-97b6-ab012b1fe2b0)
+    
+![image](https://github.com/user-attachments/assets/621fb631-7ca4-4996-be18-a5c391fc9603)
+
 
 ![image](https://github.com/user-attachments/assets/f38d6a75-19ad-4788-a69e-ec0d0fe179a8)
 
